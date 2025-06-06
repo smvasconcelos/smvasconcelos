@@ -25,6 +25,18 @@ I'm currently **diving deeper into backend development** again — reinforcing m
 
 ---
 
+### 🧠 Soft Skills & Business Experience
+
+Over the years, I’ve:
+
+- 🧩 Participated in **complex business rule refinements**, especially in large **monolithic architectures**
+- 📌 Worked directly on the maintenance and evolution of a **critical system module** with high access volume, ensuring stability, performance, and alignment with business needs
+- 🤝 Grown in **team rituals**: daily scrums, sprint planning, and backlog refinements
+- 🧠 Developed a strong understanding of **product thinking**, always aligning development with business goals
+- 🔄 Applied **CI/CD practices** to streamline delivery and reduce friction in deployment cycles
+
+---
+
 ### 🌱 Learning Goals
 
 I’m expanding my full stack capabilities to build scalable and robust applications from front to back. My focus now is to blend clean UI with solid backend architecture.
