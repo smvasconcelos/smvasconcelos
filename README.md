@@ -8,7 +8,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a passionate developer with nearly **4 years of experience in frontend development**. I began my career as a **full stack developer**, but over the years, I've focused on crafting rich user experiences using modern frontend technologies.
+I'm a passionate developer with nearly **5 years of experience in frontend development**. I began my career as a **full stack developer**, but over the years, I've focused on crafting rich user experiences using modern frontend technologies.
 
 My current tech stack includes:
 
@@ -22,6 +22,8 @@ I'm currently **diving deeper into backend development** again — reinforcing m
 - 🟩 **Node.js** & **NestJS**
 - 🛠️ **Prisma ORM**
 - 🐘 **PostgreSQL**
+- 🐘 **PHP - Laravel**
+- 🐘 **Mysql**
 
 ---
 
