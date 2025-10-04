@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Samuel Vasconcelos!
 
 🎓 Bachelor in Computer Science  
-💻 Frontend Developer | React | TypeScript  
+💻 FullStack Developer | React | TypeScript | NodeJs | PHP | Laravel  
 🚀 On a journey back to Full Stack Development
 
 ---
