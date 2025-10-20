@@ -22,7 +22,7 @@ And on the backend side, I’m studying and building projects with:
 
 - 🐘 PHP - Laravel
 - 🐘 MySQL
-= 🟩 Node.js & NestJS
+- 🟩 Node.js & NestJS
 - 🛠️ Prisma ORM
 
 🧠 Soft Skills & Business Experience
