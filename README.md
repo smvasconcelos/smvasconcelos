@@ -1,57 +1,52 @@
-# 👋 Hey, I'm Samuel Vasconcelos!
+👋 Hey, I'm Samuel Vasconcelos!
 
-🎓 Bachelor in Computer Science  
-💻 FullStack Developer | React | TypeScript | NodeJs | PHP | Laravel  
-🚀 On a journey back to Full Stack Development
+🎓 Bachelor in Computer Science
+💻 FullStack Developer | React | TypeScript | Node.js | PHP | Laravel
+🚀 On a journey to expand and modernize my full stack expertise
 
----
+👨‍💻 About Me
 
-### 👨‍💻 About Me
+I'm a passionate web developer with nearly 5 years of experience in web development.
+In recent years, I've worked as a Full Stack Developer using PHP and Laravel, delivering and maintaining complex systems that serve critical business needs.
 
-I'm a passionate developer with nearly **5 years of experience in frontend development**. I began my career as a **full stack developer**, but over the years, I've focused on crafting rich user experiences using modern frontend technologies.
+While Laravel and PHP have been my main backend stack recently, I’m currently diving deeper into the Node.js ecosystem, expanding my backend capabilities and aligning them with modern JavaScript-based architectures.
 
 My current tech stack includes:
 
-- ⚛️ **React (TypeScript)**
-- 🔄 **React Query**
-- 📋 **React Hook Form**
-- 🎨 **Tailwind CSS**
+⚛️ React (TypeScript)
+🔄 React Query
+📋 React Hook Form
+🎨 Tailwind CSS
 
-I'm currently **diving deeper into backend development** again — reinforcing my skills with:
+And on the backend side, I’m studying and building projects with:
 
-- 🟩 **Node.js** & **NestJS**
-- 🛠️ **Prisma ORM**
-- 🐘 **PostgreSQL**
-- 🐘 **PHP - Laravel**
-- 🐘 **Mysql**
+🐘 PHP - Laravel
+🐘 MySQL
+🟩 Node.js & NestJS
+🛠️ Prisma ORM
 
----
-
-### 🧠 Soft Skills & Business Experience
+🧠 Soft Skills & Business Experience
 
 Over the years, I’ve:
 
-- 🧩 Participated in **complex business rule refinements**, especially in large **monolithic architectures**
-- 📌 Worked directly on the maintenance and evolution of a **critical system module** with high access volume, ensuring stability, performance, and alignment with business needs
-- 🤝 Grown in **team rituals**: daily scrums, sprint planning, and backlog refinements
-- 🧠 Developed a strong understanding of **product thinking**, always aligning development with business goals
-- 🔄 Applied **CI/CD practices** to streamline delivery and reduce friction in deployment cycles
+🧩 Participated in complex business rule refinements, especially in large monolithic architectures
 
----
+📌 Worked on critical system modules with high access volume, ensuring performance and reliability
 
-### 🌱 Learning Goals
+🤝 Actively engaged in team rituals — daily scrums, sprint planning, and backlog refinements
 
-I’m expanding my full stack capabilities to build scalable and robust applications from front to back. My focus now is to blend clean UI with solid backend architecture.
+🧠 Strengthened my product thinking, aligning technical solutions with business goals
 
----
+🔄 Applied CI/CD practices to streamline delivery and improve deployment efficiency
 
-### 📫 Let's Connect!
+📫 Let's Connect!
 
-Feel free to check out my repositories, connect, or reach out:
+Feel free to check out my work, connect, or reach out:
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/samuel-vasconcelos-b196001ba/)
-- ✉️ [smvasconcelos11@gmail.com](mailto:smvasconcelos11@gmail.com)
+💼 LinkedIn
 
----
+✉️ smvasconcelos11@gmail.com
+
+📝 Blog – DevLogs
 
 Thanks for stopping by! 🚀
