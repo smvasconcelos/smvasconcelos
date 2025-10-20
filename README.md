@@ -29,24 +29,18 @@ And on the backend side, I’m studying and building projects with:
 
 Over the years, I’ve:
 
-🧩 Participated in complex business rule refinements, especially in large monolithic architectures
-
-📌 Worked on critical system modules with high access volume, ensuring performance and reliability
-
-🤝 Actively engaged in team rituals — daily scrums, sprint planning, and backlog refinements
-
-🧠 Strengthened my product thinking, aligning technical solutions with business goals
-
-🔄 Applied CI/CD practices to streamline delivery and improve deployment efficiency
+- 🧩 Participated in complex business rule refinements, especially in large monolithic architectures
+- 📌 Worked on critical system modules with high access volume, ensuring performance and reliability
+- 🤝 Actively engaged in team rituals — daily scrums, sprint planning, and backlog refinements
+- 🧠 Strengthened my product thinking, aligning technical solutions with business goals
+- 🔄 Applied CI/CD practices to streamline delivery and improve deployment efficiency
 
 📫 Let's Connect!
 
 Feel free to check out my work, connect, or reach out:
 
-💼 LinkedIn
-
-✉️ smvasconcelos11@gmail.com
-
-📝 Blog – DevLogs
+- 💼 LinkedIn
+- ✉️ smvasconcelos11@gmail.com
+- 📝 Blog – DevLogs
 
 Thanks for stopping by! 🚀
