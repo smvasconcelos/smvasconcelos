@@ -13,17 +13,17 @@ While Laravel and PHP have been my main backend stack recently, I’m currently 
 
 My current tech stack includes:
 
-⚛️ React (TypeScript)
-🔄 React Query
-📋 React Hook Form
-🎨 Tailwind CSS
+- ⚛️ React (TypeScript)
+- 🔄 React Query
+- 📋 React Hook Form
+- 🎨 Tailwind CSS
 
 And on the backend side, I’m studying and building projects with:
 
-🐘 PHP - Laravel
-🐘 MySQL
-🟩 Node.js & NestJS
-🛠️ Prisma ORM
+- 🐘 PHP - Laravel
+- 🐘 MySQL
+= 🟩 Node.js & NestJS
+- 🛠️ Prisma ORM
 
 🧠 Soft Skills & Business Experience
 
