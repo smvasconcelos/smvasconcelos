@@ -43,6 +43,6 @@ Feel free to check out my work, connect, or reach out:
 
 - 💼 LinkedIn
 - ✉️ smvasconcelos11@gmail.com
-- 📝 Blog – DevLogs
+- 📝 [Blog – DevLogs](https://smvasconcelos.github.io/devlogs/pt/)
 
 Thanks for stopping by! 🚀
