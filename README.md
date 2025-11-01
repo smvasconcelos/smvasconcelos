@@ -41,7 +41,7 @@ Over the years, I’ve:
 
 Feel free to check out my work, connect, or reach out:
 
-- 💼 LinkedIn
+- 💼 [LinkedIn](https://www.linkedin.com/in/samuel-vasconcelos-b196001ba/)
 - ✉️ smvasconcelos11@gmail.com
 - 📝 [Blog – DevLogs](https://smvasconcelos.github.io/devlogs/pt/)
 
