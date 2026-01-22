@@ -44,5 +44,6 @@ Feel free to check out my work, connect, or reach out:
 - 💼 [LinkedIn](https://www.linkedin.com/in/samuel-vasconcelos-b196001ba/)
 - ✉️ smvasconcelos11@gmail.com
 - 📝 [Blog – DevLogs](https://smvasconcelos.github.io/devlogs/pt/)
+- 📁 [Digital Resume](https://smvasconcelos.github.io/resume/#home)
 
 Thanks for stopping by! 🚀
